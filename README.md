@@ -87,6 +87,15 @@ I aim to identify compounds that:
 
 ---
 
+### 📂 Project Files
+- [Data Folder](./data)
+- [Docking Results](./docking_results)
+- [Analysis Notes](./analysis)
+- [References](./references)
+- [Documentation](./docs)
+
+---
+
 ## 🚧 My Progress
 **Current Status:** 🔄 Work in Progress  
 
@@ -98,7 +107,7 @@ I aim to identify compounds that:
 - ⏳ Analyzing binding energies and interactions  
 - ⏳ Writing up results and findings  
 
-**Expected Completion:** December 2024  
+**Expected Completion:** December 2025  
 
 ---
 
